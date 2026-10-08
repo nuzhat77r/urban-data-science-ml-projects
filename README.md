@@ -11,7 +11,7 @@ Two applied machine-learning projects exploring **predictive modeling of urban m
 
 ## 1. Capital Bikeshare Demand Analysis & Forecasting
 
-**Notebook:** [`Part1_Capital_Bikeshare_v1_0(1).ipynb`](Part1_Capital_Bikeshare_v1_0(1).ipynb)
+**Notebook:** [`Part1_Capital_Bikeshare_v1_0.ipynb`](Part1_Capital_Bikeshare_v1_0.ipynb)
 
 ### Objective
 Understand how time, weather, and rider type affect bicycle rental demand in Washington, D.C., and forecast total hourly rentals.
@@ -47,7 +47,7 @@ Understand how time, weather, and rider type affect bicycle rental demand in Was
 
 ## 2. Building Footprint Segmentation from Aerial Imagery
 
-**Notebook:** [`Part2_Inria_Building_Segmentation_v1_0(1).ipynb`](Part2_Inria_Building_Segmentation_v1_0(1).ipynb)
+**Notebook:** [`Part2_Inria_Building_Segmentation_v1_0.ipynb`](Part2_Inria_Building_Segmentation_v1_0.ipynb)
 
 ### Objective
 Extract building footprints from high-resolution aerial images using binary semantic segmentation, and evaluate generalization to an unseen geographic area.
